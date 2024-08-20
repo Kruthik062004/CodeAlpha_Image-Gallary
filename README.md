@@ -1,16 +1,2 @@
 # CodeAlpha_Image-Gallary
 By this we can visit the different  folder on the gallary
-![1](https://github.com/user-attachments/assets/daef5c0e-63f8-4b42-aaa8-e3415ca1a2fc)
-![2](https://github.com/user-attachments/assets/13d057e6-3b57-4161-a411-8c1d2a5e3ca5)
-![3](https://github.com/user-attachments/assets/775a16b2-7d4c-4704-84bb-b40bfeff6e30)
-![4](https://github.com/user-attachments/assets/ad2f389b-c61f-4aba-9967-fc87cffa141c)
-![5](https://github.com/user-attachments/assets/ab4f63c1-cfae-41a8-ab06-8fd473056098)
-![6](https://github.com/user-attachments/assets/78992e46-d578-4591-a06a-7a44f6baaa2c)
-![7](https://github.com/user-attachments/assets/fb8cae9b-4c5b-4bfa-bd20-bc7170a769a4)
-![8](https://github.com/user-attachments/assets/7c3c1e19-3b44-46a3-bfb7-2746c4051d02)
-![9](https://github.com/user-attachments/assets/22ee04d0-7283-4fc1-95bd-492659dbb7c7)
-![10](https://github.com/user-attachments/assets/c46d4366-6595-4f18-95bb-d715f3f0377d)
-![11](https://github.com/user-attachments/assets/d0e6067a-272b-4af8-8471-c063267b33c2)
-![12](https://github.com/user-attachments/assets/5c4ddebd-2aa1-4b3a-a4f1-227def4e0a2a)
-![15](https://github.com/user-attachments/assets/6069c2b7-b0f4-4f12-b1f8-39b57f1a97f0)
-![13](https://github.com/user-attachments/assets/44cf31c4-17e4-4253-9e17-e012d835ada3)
